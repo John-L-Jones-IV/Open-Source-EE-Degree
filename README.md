@@ -13,7 +13,7 @@ All the curriculum for a BS in electrical engineering but online and free.
   * Physics II
   * General Chemistry
 * Computer Science
-  * Intro to Computing (Matlab or Python)
+  * Intro to Computing (Matlab or [Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/))
   * Programming Elective
 ## EE/CompE Core
 * Core
