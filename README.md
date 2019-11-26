@@ -44,7 +44,7 @@ The critical curriculum for a BS in electrical engineering but online and free.
 * Computer Vision
 * Machine Learning
 * Energy Systems
-* Biomedical Applicatoins
+* Biomedical Applications
 * Security
 * Computer Architecture
 * Digital Design
