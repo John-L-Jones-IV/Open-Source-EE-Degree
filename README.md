@@ -1,5 +1,5 @@
 # Open-Source-EE-Degree
-The critical curriculum for a BS in electrical engineering but online and free.
+The critical curriculum for a BS in electrical engineering but online and free. 
 
 ## Prerequisites
 * Math
@@ -13,22 +13,39 @@ The critical curriculum for a BS in electrical engineering but online and free.
   * Physics II
   * General Chemistry
 * Computer Science
-  * Intro to Computing (choose two)
+  * Intro to Computing (choose three)
     * Matlab
+    * Engineering Software Design
     * [Introduction to Computer Science and Programming in Python - MIT OCW 6.0001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
     * [Introduction to Computational Thinking and Data Science - MIT OCW 6.0002](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
   * Programming Elective
 ## Core
+* Circuit Analysis
 * Digital Design w/ Lab
 * Intro to Signal Processing
-* Circuit Analysis
-* Systems and Signals
 ## EE
+* Systems and Signals
 * Microelectronics / Semiconductor Physics
 * Analog cirucits w/ Lab
 * Electromagnetics
 * Electrical Energy Systems
 ## CompE
-* MOSFETS?
-* Comp Arch
+* Programming HW/SW Systems
+* Physical Foundations of Computer Engineering
+* Computer Architecture
+* Mathmatical Foundations of Computer Engineering 
 ## Electives
+* Robotics
+* Controlls
+* Embedded Systems
+* Radar
+* Communicatoins
+* Emag Applications
+* Computer Vision
+* Machine Learning
+* Energy Systems
+* Biomedical Applicatoins
+* Security
+* Computer Architecture
+* Digital Design
+* Analog Circuits
