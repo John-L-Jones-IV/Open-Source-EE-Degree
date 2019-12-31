@@ -49,3 +49,11 @@ The critical curriculum for a BS in electrical engineering but online and free.
 * Computer Architecture
 * Digital Design
 * Analog Circuits
+## Projects
+* A camera that counts and/or classifies things
+* A cool micro controller widget
+* Something with a drone
+* Something with a mobile app
+* An entire design for a payload going into space with wireless comunicaitons, controls,
+and thermal and mechanical considerations, that requires low-level programing, rapid prototypeing, bench-testing,
+high-profile presentations to secure funding, and at least a year of inadequate sleep.
