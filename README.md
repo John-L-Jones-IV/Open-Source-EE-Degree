@@ -7,16 +7,17 @@
   * [Differential Equations - MIT OCW 18.03](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
   * [Probability and Statistics - MIT OCW 18.05](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
 * Science
-  * Physics I
-  * Physics II
-  * General Chemistry
+  * [Classical Mechanics - MIT OCW 8.012](https://ocw.mit.edu/courses/physics/8-012-physics-i-classical-mechanics-fall-2008/)
+  * [Electricity and Magnetism - MIT OCW 8.02](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/)
+  * [Principles of Chemical Science - MIT OCW 5.111](https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/)
 * Computer Science
-  * Intro to Computing (choose three)
-    * Matlab
-    * Engineering Software Design
+  * Intro to Computing
+    * [Introduction to Matlab - MIT OCW 6.057](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-057-introduction-to-matlab-january-iap-2019/)
     * [Introduction to Computer Science and Programming in Python - MIT OCW 6.0001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-    * [Introduction to Computational Thinking and Data Science - MIT OCW 6.0002](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
-  * Programming Elective
+  * Programming Electives
+      * Programming HW/SW Systems (required for CompE)
+      * [Introduction to Computational Thinking and Data Science - MIT OCW 6.0002](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) 
+      * Engineering Software Design
 ## Core
 * Circuit Analysis
 * Digital Design w/ Lab
@@ -28,7 +29,7 @@
 * Electromagnetics
 * Electrical Energy Systems
 ## CompE
-* Programming HW/SW Systems
+
 * Physical Foundations of Computer Engineering
 * Computer Architecture
 * Mathmatical Foundations of Computer Engineering 
