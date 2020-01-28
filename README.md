@@ -1,6 +1,4 @@
 # Open-Source-EE-Degree
-The critical curriculum for a BS in electrical engineering but online and free. 
-
 ## Prerequisites
 * Math
   * [Differential and Integral Calculus  - MIT OCW 18.01](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
