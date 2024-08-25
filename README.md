@@ -48,6 +48,8 @@
 * Computer Architecture
 * Digital Design
 * Analog Circuits
+* Computer Science
+  * [Data Structures and Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
 ## Projects
 * A camera that counts and/or classifies things
 * A cool micro controller widget
